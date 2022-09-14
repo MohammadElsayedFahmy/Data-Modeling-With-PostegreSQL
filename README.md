@@ -61,7 +61,7 @@ songplay_id, start_time, user_id, level, song_id, artist_id, session_id, locatio
 
 This design will offer flexibility with the queries being used for analysis.
 
-## ETL Process
+
 
 
 
